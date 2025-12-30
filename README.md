@@ -8,7 +8,7 @@ Final project for the Building AI course
 
 Leksa is an AI-driven educational platform that guides students through Socratic questioning rather than providing direct answers. With full teacher oversight, multi-AI provider intelligence, and GDPR-compliant infrastructure, it transforms AI from a cheating tool into a legitimate learning companion for schools.
 
-![image of a cat](/cat_image.jpg)
+![Leksa platform role selection interface](/image (9).png)
 
 ## Background
 
