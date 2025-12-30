@@ -4,13 +4,13 @@ Final project for the Building AI course
 
 **Project Team:** Michael Bergman & Shamil Rosén
 
-## Summary
-
-Leksa is an AI-driven educational platform that guides students through Socratic questioning rather than providing direct answers. With full teacher oversight, multi-AI provider intelligence, and GDPR-compliant infrastructure, it transforms AI from a cheating tool into a legitimate learning companion for schools.
-
 ---
 
 <img src="image(9).png" alt="Leksa platform role selection interface" width="600">
+
+## Summary
+
+Leksa is an AI-driven educational platform that guides students through Socratic questioning rather than providing direct answers. With full teacher oversight, multi-AI provider intelligence, and GDPR-compliant infrastructure, it transforms AI from a cheating tool into a legitimate learning companion for schools.
 
 ## Background
 
