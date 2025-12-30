@@ -92,10 +92,6 @@ about any specific events or actions Germany took during the 1930s
 that alarmed other countries?"
 ```
 
-![Chat Interface](/image(11).png)
-
-Chat Interface
-
 **What happens next:**
 * Emma continues this dialogue, gradually building understanding
 * She writes her essay using the concepts she's discovered
@@ -141,6 +137,22 @@ Chat Interface
 * Vendor independence through multi-AI provider system
 * Cost-effective solution compared to commercial alternatives
 * Full control over data retention and user management
+
+---
+
+## Platform Screenshots
+
+### User Interface
+![Student Interface](/image(10).png)
+
+### Socratic Learning
+![Chat Interface](/image(11).png)
+
+### Student Dashboard
+![Student Dashboard](/image(12).png)
+
+### Teacher Tools
+![Teacher Dashboard](/image(8).png)
 
 ---
 
