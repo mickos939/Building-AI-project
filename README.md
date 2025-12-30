@@ -4,8 +4,6 @@ Final project for the Building AI course
 
 **Project Team:** Michael Bergman & Shamil Rosén
 
----
-
 <img src="image(9).png" alt="Leksa platform role selection interface" width="600">
 
 ## Summary
