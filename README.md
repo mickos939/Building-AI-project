@@ -144,15 +144,19 @@ that alarmed other countries?"
 
 ### User Interface
 ![Student Interface](/image(10).png)
+<img src="image(10).png" alt="Student Interface" width="600">
 
 ### Socratic Learning
 ![Chat Interface](/image(11).png)
+<img src="image(11).png" alt="Chat Interface" width="400">
 
 ### Student Dashboard
 ![Student Dashboard](/image(12).png)
+<img src="image(12).png" alt="Student Dashboard" width="600">
 
 ### Teacher Tools
 ![Teacher Dashboard](/image(8).png)
+<img src="image(8).png" alt="Teacher Dashboard" width="600">
 
 ---
 
