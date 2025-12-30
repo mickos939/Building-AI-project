@@ -8,8 +8,8 @@ Final project for the Building AI course
 
 Leksa is an AI-driven educational platform that guides students through Socratic questioning rather than providing direct answers. With full teacher oversight, multi-AI provider intelligence, and GDPR-compliant infrastructure, it transforms AI from a cheating tool into a legitimate learning companion for schools.
 
+
 <img src="image(9).png" alt="Leksa platform role selection interface" width="600">
-*Role selection interface - Admin, Teacher, Student, System Administrator*
 
 ## Background
 
@@ -143,16 +143,16 @@ that alarmed other countries?"
 ## Platform Screenshots
 
 ### User Interface
-<img src="image(10).png" alt="Student Interface" width="600">
+<img src="image(10).png" alt="Student Interface" width="500">
 
 ### Socratic Learning
 <img src="image(11).png" alt="Chat Interface" width="500">
 
 ### Student Dashboard
-<img src="image(12).png" alt="Student Dashboard" width="600">
+<img src="image(12).png" alt="Student Dashboard" width="500">
 
 ### Teacher Tools
-<img src="image(8).png" alt="Teacher Dashboard" width="600">
+<img src="image(8).png" alt="Teacher Dashboard" width="500">
 
 ---
 
