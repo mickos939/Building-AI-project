@@ -9,6 +9,7 @@ Final project for the Building AI course
 Leksa is an AI-driven educational platform that guides students through Socratic questioning rather than providing direct answers. With full teacher oversight, multi-AI provider intelligence, and GDPR-compliant infrastructure, it transforms AI from a cheating tool into a legitimate learning companion for schools.
 
 ![Leksa platform role selection interface](/image(9).png)
+*Role selection interface - Admin, Teacher, Student, System Administrator*
 
 ## Background
 
@@ -90,6 +91,9 @@ called rearmament. But there's more to the story... Have you heard
 about any specific events or actions Germany took during the 1930s 
 that alarmed other countries?"
 ```
+
+![Chat Interface](/image(11).png)
+Chat Interface
 
 **What happens next:**
 * Emma continues this dialogue, gradually building understanding
