@@ -115,6 +115,24 @@ that alarmed other countries?"
 **Ms. Andersson's assessment:**
 > "I can clearly see Emma worked through this herself. She started with basic knowledge and built deeper understanding through guided questioning. The AI never gave her the answer – it helped her think. This is exactly the kind of process I want to evaluate."
 
+---
+
+## Platform Screenshots
+
+### User Interface
+<img src="image(10).png" alt="Student Interface" width="500">
+
+### Socratic Learning
+<img src="image(11).png" alt="Chat Interface" width="500">
+
+### Teacher Tools
+<img src="image(8).png" alt="Teacher Dashboard" width="600">
+
+### Student Dashboard
+<img src="image(12).png" alt="Student Dashboard" width="500">
+
+---
+
 ### Multiple User Contexts
 
 **Students use Leksa for:**
@@ -136,22 +154,6 @@ that alarmed other countries?"
 * Vendor independence through multi-AI provider system
 * Cost-effective solution compared to commercial alternatives
 * Full control over data retention and user management
-
----
-
-## Platform Screenshots
-
-### User Interface
-<img src="image(10).png" alt="Student Interface" width="500">
-
-### Socratic Learning
-<img src="image(11).png" alt="Chat Interface" width="500">
-
-### Teacher Tools
-<img src="image(8).png" alt="Teacher Dashboard" width="600">
-
-### Student Dashboard
-<img src="image(12).png" alt="Student Dashboard" width="500">
 
 ---
 
